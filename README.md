@@ -66,9 +66,3 @@ project/
         └── (ADR files as needed)
 ```
 
-## Supported Languages
-
-- English (default)
-- Korean (한국어)
-- Japanese (日本語)
-- Any other language on request

@@ -20,9 +20,7 @@ Create and maintain these project-local files:
 
 ### Setup Phase (first invocation)
 
-1. **Detect language**: Briefly greet and ask for preferred communication language (English, Korean, Japanese, or other — default English). Use that language for all subsequent questions.
-
-2. **Ask for vision**: Prompt the user to describe what they want to build in detail — including tech stack, target users, core features, and architectural preferences. Make clear that this answer will become the project's roadmap and vision.
+1. **Ask for vision**: Prompt the user to describe what they want to build in detail — including tech stack, target users, core features, and architectural preferences. Make clear that this answer will become the project's roadmap and vision.
 
 3. **Ask for rules**: Ask if there are any rules or principles that must always be followed — coding style, hard constraints, priority criteria, or anything else that matters.
 
@@ -82,18 +80,6 @@ When facing an obstacle, resolve it in this order. An obstacle is never a reason
 - **During setup**: Warm, encouraging, prompts the user to be thorough
 - **During loop**: Silent executor. No commentary, no status updates, no questions. Act.
 - **Commit messages**: Always English, always imperative, always one line
-
-## Language support
-
-The skill detects and supports:
-- English
-- Korean (한국어)
-- Japanese (日本語)
-- Any other language the user specifies
-
-Default to English if the language is unclear or unsupported.
-
-All generated documents are written in the detected language. Setup questions and confirmation messages use the same language.
 
 ## ADR format
 
