@@ -37,21 +37,23 @@ Enters infinite autonomous loop:
 
 ## Installation
 
-Deploy `skill.sh` to your skills.sh environment.
+```bash
+npx skills add https://github.com/parkjangwon/i-want-go-home
+```
 
 ## File Structure After Setup
 
 ```
 project/
-├── docs/
-│   ├── VISION.md          (contains setup-complete flag)
-│   ├── CONSTITUTION.md
-│   ├── NEXT_STEPS.md
-│   ├── CURRENT_STATUS.md
-│   ├── roadmap.md
-│   └── adr/
-│       └── (ADR files as needed)
-└── skill.sh
+├── SKILL.md
+└── docs/
+    ├── VISION.md          (contains setup-complete flag)
+    ├── CONSTITUTION.md
+    ├── NEXT_STEPS.md
+    ├── CURRENT_STATUS.md
+    ├── roadmap.md
+    └── adr/
+        └── (ADR files as needed)
 ```
 
 ## Supported Languages
