@@ -38,7 +38,7 @@ Enters infinite autonomous loop:
 ## Installation
 
 ```bash
-npx skills add https://github.com/parkjangwon/i-want-go-home
+npx skills add parkjangwon/i-want-go-home
 ```
 
 ## File Structure After Setup
