@@ -1,5 +1,7 @@
 # I Want Go Home - Infinite Autonomous Development Loop
 
+<img width="1408" height="768" alt="1778159239137(1)" src="https://github.com/user-attachments/assets/4814047b-74cd-4679-8700-d12559049fb2" />
+
 ## Description
 
 Bootstraps a new project with vision and constitution, then enters an **unstoppable** autonomous development loop. The AI implements tasks continuously until the goal is fully achieved — it does not pause, ask for approval, or give up when things get hard.
